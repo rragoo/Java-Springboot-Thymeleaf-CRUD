@@ -17,6 +17,10 @@ The service offers an application where we can read, add, update or delete an em
 ## Features Overview 
 
 * Save employee firstname, lastname and email in Database.
+* Read employee firstname, lastname and email in Database.
+* Update employee firstname, lastname and email in Database.
+* Delete employee firstname, lastname and email in Database.
+
 
 ## Framework and programing languages used
 
